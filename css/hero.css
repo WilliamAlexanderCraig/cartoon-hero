@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	background-color: greenyellow;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+header h1 {
+	color: black;
+	font-size: 50px;
+
+}
+
+header img{
+
+}
+
+h1, h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px ;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+}
+p{
+	font-size: 25px;
+}
+a{
+	color: darkgreen;
+}
+a:hover{
+	color: forestgreen;
+}
